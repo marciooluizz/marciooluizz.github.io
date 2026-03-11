@@ -1,0 +1,5 @@
+id|term|translation|example_sentence|example_translation|pronunciation|part_of_speech|tags|difficulty|notes
+1|bonjour|hello|Bonjour tout le monde.|Hello everyone.|bohn-ZHOOR|interjection|greeting;basics|easy|Common greeting
+2|chat|cat|Le chat dort.|The cat is sleeping.|sha|noun|animals|easy|
+3|prendre|to take|Je vais prendre un café.|I am going to take a coffee.|PROHN-druh|verb|food;daily|medium|
+4|cependant|however|Cependant, il faut étudier.|However, we must study.|suh-pahn-DAHN|connector|academic|hard|Formal connector
