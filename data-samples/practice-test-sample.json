@@ -1,0 +1,36 @@
+{
+  "name": "French A1 Practice Exam",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Choose the French word for 'water'.",
+      "question_type": "multiple_choice",
+      "choices": ["eau", "lait", "pain", "fromage"],
+      "correct_answer": "eau",
+      "explanation": "Eau means water.",
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "tags": ["nouns", "basics"]
+    },
+    {
+      "id": "q2",
+      "question": "True or False: 'Je suis étudiant' means 'I am a student'.",
+      "question_type": "true_false",
+      "correct_answer": "true",
+      "explanation": "It is a direct translation.",
+      "topic": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "Type the French word for 'to write'.",
+      "question_type": "typed",
+      "correct_answer": "écrire",
+      "acceptable_answers": ["ecrire"],
+      "hint": "Starts with é.",
+      "explanation": "The infinitive form is écrire.",
+      "topic": "verbs",
+      "difficulty": "medium"
+    }
+  ]
+}
