@@ -74,6 +74,7 @@ input, select, textarea {
 .match-board { display:grid; grid-template-columns: repeat(auto-fit, minmax(120px,1fr)); gap:.5rem; }
 .tile { border:1px solid var(--border); border-radius:.7rem; padding:.6rem; text-align:center; cursor:pointer; }
 .tile.selected { outline:2px solid var(--accent); }
+.tile.matched, .tile:disabled { opacity:.55; cursor:default; }
 .printable { background:#fff; color:#000; }
 @media (max-width: 900px) {
   .app-grid { grid-template-columns: 1fr; }
